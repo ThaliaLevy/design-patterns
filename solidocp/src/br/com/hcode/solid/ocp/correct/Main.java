@@ -1,7 +1,7 @@
 package br.com.hcode.solid.ocp.correct;
 
-import br.com.hcode.solid.ocp.correct2.vehicles.Car;
-import br.com.hcode.solid.ocp.correct2.vehicles.Motorcycle;
+import br.com.hcode.solid.ocp.correct.vehicles.Car;
+import br.com.hcode.solid.ocp.correct.vehicles.Motorcycle;
 
 public class Main {
     private static TypeVehicle typeVehicle;
