@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author taly
+ *
+ */
+module solidlsp {
+}
