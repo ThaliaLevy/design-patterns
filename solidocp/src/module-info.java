@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author taly
- *
- */
-module designpatterns {
-}

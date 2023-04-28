@@ -13,3 +13,4 @@ public class NubankRewards implements IPaymentInstrument {
         System.out.println("Pontuação creditada no Programa Rewards!");
     }
 }
+ 
